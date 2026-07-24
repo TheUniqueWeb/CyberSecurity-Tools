@@ -1,59 +1,88 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=MR+CODEX+BD+OFFICIAL+LABS;ADVANCED+SECURITY+RESEARCH+FRAMEWORK;PREMIUM+EXPLOITATION+TOOLS+V2" alt="Mr Codex Bd" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&pause=500&color=00FBFF&center=true&vCenter=true&width=1000&height=100&lines=MR+CODEX+BD+SYSTEMS+INTEL;ELITE+CYBER+SECURITY+LABS;UNAUTHORIZED+ACCESS+PROHIBITED" alt="Mr Codex Bd" />
 </p>
 
 <p align="center">
-  <kbd><img src="https://img.shields.io/badge/VERSION-V3.0_STABLE-red?style=for-the-badge" /></kbd>
-  <kbd><img src="https://img.shields.io/badge/SECURITY-VIP_ENCRYPTED-black?style=for-the-badge&logo=eset" /></kbd>
-  <kbd><img src="https://img.shields.io/badge/STATUS-OFFICIAL-00FF41?style=for-the-badge" /></kbd>
+<img src="https://img.shields.io/badge/SECURITY-VIP_LEVEL_99-red?style=for-the-badge&logo=probot" />
+<img src="https://img.shields.io/badge/AUTHOR-MAHAMUDUR_RAHMAN-00FBFF?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/LICENSE-PROPRIETARY-gold?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-ENCRYPTED-00FF41?style=for-the-badge&logo=encryption" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
 ---
 
-# ⚠️ ULTIMATE LEGAL NOTICE & DISCLAIMER
-### READ THIS BEFORE PROCEEDING OR DOWNLOADING
+# ⚖️ END-USER LICENSE AGREEMENT & LEGAL COVENANT (EULA)
+### PLEASE READ CAREFULLY. BY ACCESSING THIS REPOSITORY, YOU AGREE TO THE FOLLOWING:
 
 > [!CAUTION]
-> **TERMS OF USE (MANDATORY):** This repository, hosted by **TheUniqueWeb** and authored by **Mahamudur Rahman (Mr Codex Bd)**, is strictly for **Professional Security Auditing, Penetration Testing Research, and Academic Purposes**. 
+> ### 🛑 ABSOLUTE ZERO LIABILITY POLICY
+> This repository, **TheUniqueWeb**, operated by **Mahamudur Rahman (Mr Codex Bd)**, provides advanced "Remote Administration Tools" (RATs) and "Exploitation Frameworks" for **strictly ethical, academic, and professional security research purposes only.**
 
-1. **NO LIABILITY:** The author (**Mahamudur Rahman**) shall NOT be held responsible for any direct or indirect damage, data loss, or legal consequences caused by the use or misuse of the tools provided here.
-2. **USER RESPONSIBILITY:** By interacting with this repository, you agree that you are solely responsible for your actions. If you use these tools for unauthorized access or illegal hacking, you are violating international laws.
-3. **EDUCATIONAL ONLY:** These "Remote Administration Tools" (RATs) and exploitation frameworks are designed to help system admins understand how to *defend* their networks, not to attack others.
-4. **NO MALICIOUS INTENT:** **Mr Codex Bd** does not promote, encourage, or support cybercrime. This is a contribution to the Open Source Security Community.
+<details>
+<summary><b>📜 CLICK TO EXPAND FULL LEGAL AGREEMENT (VIP ACCESS ONLY)</b></summary>
 
-**IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS REPOSITORY IMMEDIATELY AND DELETE ALL COPIES.**
+### 1. NO WARRANTY
+The software is provided "as-is" without any warranty of any kind, express or implied. The developer (**Mahamudur Rahman**) assumes no responsibility for errors or omissions in the software or documentation.
+
+### 2. LEGAL COMPLIANCE
+The user is solely responsible for complying with local, state, federal, and international laws. Using these tools for unauthorized access to systems (Hacking) is a **criminal offense**.
+
+### 3. INDEMNIFICATION
+By using this code, you agree to indemnify, defend, and hold harmless **Mr Codex Bd** from any claims, damages, liabilities, and expenses (including legal fees) arising from your use or misuse of the tools.
+
+### 4. ATTRIBUTION
+Any redistribution of this code must maintain all original credits to **TheUniqueWeb** and **Mahamudur Rahman**.
+
+### 5. PROHIBITED USE
+- Use for Ransomware or extortion.
+- Use against Government Infrastructure.
+- Use for personal gain through illegal activities.
+</details>
 
 ---
 
-## 💎 VIP FEATURES - MR CODEX BD LABS
-<table align="center">
-  <tr>
-    <td><b>🚀 High-Speed Payloads</b></td>
-    <td>Optimized for low-latency command execution and minimal footprint.</td>
+## 💎 VIP EXPLOITATION SUITE FEATURES
+<table align="center" style="border: 2px solid #00FBFF; border-collapse: collapse;">
+  <tr style="background-color: #1a1a1a;">
+    <th style="padding: 15px; color: #00FBFF;">🚀 COMPONENT</th>
+    <th style="padding: 15px; color: #00FBFF;">🛡️ CAPABILITY</th>
+    <th style="padding: 15px; color: #00FBFF;">⚡ LEVEL</th>
   </tr>
   <tr>
-    <td><b>🛡️ EDR Evasion</b></td>
-    <td>Research on advanced techniques to bypass modern security signatures.</td>
+    <td style="padding: 10px; border: 1px solid #333;"><b>Ghost-RAT Engine</b></td>
+    <td style="padding: 10px; border: 1px solid #333;">Undetectable remote administration with AES-256 encryption.</td>
+    <td style="padding: 10px; border: 1px solid #333; color: gold;"><b>ELITE</b></td>
   </tr>
   <tr>
-    <td><b>🛰️ Remote Control</b></td>
-    <td>Next-generation RAT architecture for authorized remote administration.</td>
+    <td style="padding: 10px; border: 1px solid #333;"><b>Kernel Bypass</b></td>
+    <td style="padding: 10px; border: 1px solid #333;">Advanced Ring-0 exploitation techniques for EDR evasion.</td>
+    <td style="padding: 10px; border: 1px solid #333; color: red;"><b>VIP HIGH</b></td>
   </tr>
   <tr>
-    <td><b>⚡ Encrypted C2</b></td>
-    <td>Fully encrypted Command & Control channels for secure data transmission.</td>
+    <td style="padding: 10px; border: 1px solid #333;"><b>C2 Nexus</b></td>
+    <td style="padding: 10px; border: 1px solid #333;">Multi-threaded Command & Control server for global scaling.</td>
+    <td style="padding: 10px; border: 1px solid #333; color: #00FBFF;"><b>ULTRA</b></td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ PROJECT ARCHITECTURE
+## 🛠️ INSTALLATION (VIP ACCESS)
+Only for those who have the authorized environment:
+
 ```bash
-# Clone the VIP Repository
+# Initialize Mr Codex Bd Secure Protocol
 git clone https://github.com/TheUniqueWeb/Your_Repo_Name
 
-# Enter the Command Center
+# Navigate to the Vault
 cd Your_Repo_Name
 
-# Initialize Security Environment
-python3 setup.py --install-requirements
+# Grant Execution Permission
+chmod +x *
+
+# Deploy Environment
+./setup_vip.sh
