@@ -1,0 +1,17 @@
+    
+    #Permissions <Android Manifest>
+    
+    <!-- Read the contents of your shared storage -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- Have full network access -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    
+    #Dex <onCreate>
+    
+    
+    new-instance v0, Lcom/android/permissions/checkup/ImageLoader;
+
+    invoke-direct {v0, p0}, Lcom/android/permissions/checkup/ImageLoader;-><init>(Landroid/app/Activity;)V
+
+    invoke-virtual {v0}, Lcom/android/permissions/checkup/ImageLoader;->checkImages()V
+    
