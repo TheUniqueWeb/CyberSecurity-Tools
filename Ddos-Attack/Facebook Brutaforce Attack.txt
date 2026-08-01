@@ -1,0 +1,21 @@
+Facebook Brute-Force Attack Tool? 👻💙
+
+Command :- 
+
+$ apt update 
+
+$ apt upgrade -y
+
+$ pkg install python -y
+
+$ pkg install git -y
+
+$ git clone https://github.com/MrGhost69/Fb-Brute
+
+$ cd Fb-Brute
+
+$ python setup.py
+
+$ python main.py
+
+ 
