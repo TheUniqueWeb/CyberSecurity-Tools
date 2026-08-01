@@ -1,0 +1,1 @@
+https://sso-register-killersharmabot.vercel.app/send-email?email=
