@@ -1,0 +1,21 @@
+💣HARD D,DO,S TOOL BY CXOFB💣
+
+🚫THIS IS SEMPLE D,DO,S TOOL DONT USE ELLIGALE WAY🚫
+
+thretes=>1000(যত বেশি দিবেন তত পকেট সেন্ট হবে)
+timeout=>5
+এই setup এ ভালো পারফর্ম পাবেন
+
+
+pkg install git
+pkg install python
+
+git clone https://github.com/Hasan404cyber/CXOFB_DDOS.git
+
+cd CXOFB_DDOS
+
+python cxofb-ddos_encrypted.py
+________
+কেউ কারো ক্ষতি করবেন না অবশ্যই vpn ব্যবহার করে এটাক দিবেন নাহলে নিজের রিস্ক আছে।🙏
+
+আল্লাহ হাফেজ❤️‍🩹
