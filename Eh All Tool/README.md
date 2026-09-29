@@ -1,98 +1,112 @@
-<div align="center">
+<h1>🛡️ Eh All Tool — All-in-One Ethical Hacking Suite</h1>
+  <p><strong>A modular, lightweight, and versatile penetration testing & security auditing toolkit.</strong></p>
 
-  <h1>🛡️ CyberSecurity-Tools (EH All Tools)</h1>
-  <p><strong>A Comprehensive Multi-Tool Suite for Ethical Hackers, Pentesters & Security Researchers</strong></p>
-
-  <!-- Badges -->
+  <!-- GitHub Badges -->
   <p>
-    <a href="https://github.com/TheUnqiueWeb/CyberSecurity-Tools/graphs/contributors"><img src="https://img.shields.io/github/contributors/TheUnqiueWeb/CyberSecurity-Tools?color=brightgreen&style=for-the-badge" alt="Contributors"></a>
-    <a href="https://github.com/TheUnqiueWeb/CyberSecurity-Tools/network/members"><img src="https://img.shields.io/github/forks/TheUnqiueWeb/CyberSecurity-Tools?style=for-the-badge" alt="Forks"></a>
-    <a href="https://github.com/TheUnqiueWeb/CyberSecurity-Tools/stargazers"><img src="https://img.shields.io/github/stars/TheUnqiueWeb/CyberSecurity-Tools?style=for-the-badge" alt="Stars"></a>
-    <a href="https://github.com/TheUnqiueWeb/CyberSecurity-Tools/issues"><img src="https://img.shields.io/github/issues/TheUnqiueWeb/CyberSecurity-Tools?style=for-the-badge" alt="Issues"></a>
-    <a href="https://github.com/TheUnqiueWeb/CyberSecurity-Tools/blob/main/LICENSE"><img src="https://img.shields.io/github/license/TheUnqiueWeb/CyberSecurity-Tools?style=for-the-badge" alt="License"></a>
+    <a href="https://github.com/TheUniqueWeb/CyberSecurity-Tools/stargazers"><img src="https://img.shields.io/github/stars/TheUniqueWeb/CyberSecurity-Tools?style=for-the-badge&color=ffd700" alt="Stars"></a>
+    <a href="https://github.com/TheUniqueWeb/CyberSecurity-Tools/network/members"><img src="https://img.shields.io/github/forks/TheUniqueWeb/CyberSecurity-Tools?style=for-the-badge&color=00c853" alt="Forks"></a>
+    <a href="https://github.com/TheUniqueWeb/CyberSecurity-Tools/issues"><img src="https://img.shields.io/github/issues/TheUniqueWeb/CyberSecurity-Tools?style=for-the-badge&color=ff5722" alt="Issues"></a>
+    <a href="https://github.com/TheUniqueWeb/CyberSecurity-Tools/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License"></a>
   </p>
 
+  <!-- Technology Badges -->
   <p>
-    <img src="https://img.shields.io/badge/Maintained%3F-Yes-green.svg?style=flat-square" alt="Maintenance">
-    <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Termux-blue.svg?style=flat-square" alt="Platform">
-    <img src="https://img.shields.io/badge/Python-3.8%2B-yellow.svg?style=flat-square" alt="Python">
+    <img src="https://img.shields.io/badge/Language-Python%20%7C%20Bash-yellowgreen?style=flat-square&logo=python" alt="Language">
+    <img src="https://img.shields.io/badge/Platform-Kali%20%7C%20Parrot%20%7C%20Ubuntu%20%7C%20Termux-blue?style=flat-square&logo=linux" alt="OS Support">
+    <img src="https://img.shields.io/badge/Status-Actively%20Maintained-success?style=flat-square" alt="Status">
+    <img src="https://img.shields.io/badge/Author-TheUniqueWeb-informational?style=flat-square&logo=github" alt="Author">
   </p>
 
   <p align="center">
     <a href="#-about-the-project">About</a> •
-    <a href="#-features--tool-categories">Features</a> •
+    <a href="#-key-features--modules">Modules</a> •
     <a href="#-installation--setup">Installation</a> •
-    <a href="#-usage">Usage</a> •
-    <a href="#-disclaimer">Disclaimer</a> •
+    <a href="#-usage--menu-preview">Usage</a> •
+    <a href="#-educational--legal-disclaimer">Disclaimer</a> •
     <a href="#-credits--author">Credits</a>
   </p>
 </div>
 
 ---
 
-## 📌 About The Project
+## 📖 About The Project
 
-**CyberSecurity-Tools** হলো একটি অল-ইন-ওয়ান ফ্রেমওয়ার্ক যা সাইবার সিকিউরিটি রিসার্চার, এথিক্যাল হ্যাকার এবং বাগ বাউন্টি হান্টারদের জন্য বিশেষভাবে ডিজাইন করা হয়েছে। রিকন থেকে শুরু করে এক্সপ্লয়েটেশন—সব ধরণের প্রাথমিক ও অ্যাডভান্সড টুলসকে এক জায়গায় ইন্টিগ্রেট করে সময় বাঁচানোই এই প্রজেক্টের মূল উদ্দেশ্য।
+**Eh All Tool** হলো [TheUniqueWeb/CyberSecurity-Tools](https://github.com/TheUniqueWeb/CyberSecurity-Tools) রিপোজিটরির একটি বিশেষায়িত অল-ইন-ওয়ান ফ্রেমওয়ার্ক। এটি এথিক্যাল হ্যাকার, সিকিউরিটি এনালিস্ট এবং বাগ হান্টারদের প্রতিদিনের রিকননেসান্স, অ্যাসেসমেন্ট এবং টেস্টিং কাজগুলো দ্রুত ও স্বয়ংক্রিয়ভাবে সম্পন্ন করার সুবিধার্থে তৈরি করা হয়েছে। 
 
-> ⚡ **Developed with ❤️ by [TheUnqiueWeb](https://github.com/TheUnqiueWeb)**
+একাধিক আলাদা আলাদা কমান্ড রান করার ঝামেলা দূর করে একটি মাত্র ইন্টারফেস থেকে সমস্ত দরকারি টুলস চালানোই এই প্রজেক্টের প্রধান লক্ষ্য।
 
 ---
 
-## 🚀 Features & Tool Categories
+## ⚡ Key Features & Modules
 
-এই সুইটে বিভিন্ন ক্যাটাগরির প্রয়োজনীয় টুলসগুলো সাজানো রয়েছে:
+<details open>
+<summary><b>1. 🛰️ Information Gathering & Reconnaissance</b></summary>
 
-### 1. 🔍 Reconnaissance & Information Gathering
-* Subdomain Finder & DNS Enumerator
-* IP / WHOIS Lookup & Reverse IP Scanner
-* Port Scanner (TCP/UDP multi-threaded)
-* CMS Detection (WordPress, Joomla, Drupal, etc.)
+* **WHOIS & Reverse IP Lookup:** টার্গেটের ডোমেইন হিস্ট্রি ও আইপি সংক্রান্ত ডাটা এক্সট্র্যাক্ট করে।
+* **Subdomain Enumeration:** পাবলিক ব্রুটফোর্স এবং API ব্যবহার করে সাবডোমেইন খুঁজে বের করে।
+* **Port Scanner:** মাল্টি-থ্রেডেড ফাস্ট পোর্ট এবং সার্ভিস ব্যানার গ্র্যাবার।
+* **DNS Lookup:** MX, TXT, A, CNAME এবং NS রেকর্ড স্ক্যানিং।
+</details>
 
-### 2. 🌐 Web Application Security
-* SQL Injection (SQLi) Detection Helper
-* Cross-Site Scripting (XSS) Scanner
-* Admin Panel & Sensitive File Finder
-* Directory & Endpoint Bruteforcer
+<details>
+<summary><b>2. 🌐 Web Application Security Testing</b></summary>
 
-### 3. 📡 Network & Wireless Security
-* Network Host Discovery
-* ARP Spoofer & Packet Sniffer helper
-* Wi-Fi Monitor & Handshake Capture utilities
+* **Admin Panel Finder:** সাধারণ এবং কাস্টম পাথ স্ক্যান করে লুকানো অ্যাডমিন লগইন পেজ ডিটেক্ট করে।
+* **Vulnerability Checks:** SQLi, XSS, ও Open Redirect-এর প্রাথমিক ভালনারেবিলিটি টেস্ট।
+* **CMS & Tech Stack Detector:** WordPress, Joomla, Drupal ও সার্ভার হেডারের তথ্য সনাক্তকরণ।
+* **Endpoint & Directory Discovery:** ওয়েবসাইটের সংবেদনশীল ফাইল (`.env`, `config.php`, `.git`) ব্রুটফোর্স।
+</details>
 
-### 4. 🕵️ OSINT (Open Source Intelligence)
-* Social Media Profile Extractor
-* Email & Username Scraping
-* Metadata Extractor (ExifTool Integration)
+<details>
+<summary><b>3. 📡 Network & Wireless Auditing</b></summary>
 
-### 5. 🔐 Cryptography & Encoding
-* Hash Cracking / Identifying Utility (MD5, SHA-256, etc.)
-* Base64 / Hex / URL Encoder & Decoder
+* **Host Discovery:** লোকাল নেটওয়ার্কে সক্রিয় হোস্ট ও আইপি অ্যাড্রেস লিস্ট করা।
+* **ARP & Packet Helper:** ট্রাফিক এনালাইসিস ও আর্প প্যাকেট ইন্সপেকশন টুলস।
+* **Wi-Fi Monitoring Support:** হ্যান্ডশেক ক্যাপচার ও নেটওয়ার্ক টেস্ট সহায়িকা।
+</details>
+
+<details>
+<summary><b>4. 🕵️ OSINT & Digital Footprinting</b></summary>
+
+* **Username & Email Search:** সোশ্যাল মিডিয়া এবং বিভিন্ন পাবলিক ডাটাবেসে ইউজারনেম ট্র্যাক করা।
+* **Exif Metadata Extractor:** ছবির ভেতরের মেটাডাটা ও জিপিএস লোকেশন বের করা।
+* **Phone Number OSINT:** ক্যারিয়ার, লোকেশন ও কান্ট্রি কোড অ্যানালাইসিস।
+</details>
+
+<details>
+<summary><b>5. 🔐 Cryptography, Hashes & Utilities</b></summary>
+
+* **Hash Identifier:** MD5, SHA-1, SHA-256, NTLM ইত্যাদি হ্যাশের ধরন শনাক্তকরণ।
+* **Decoder / Encoder:** Base64, Hex, URL, Binary কনভার্টার।
+</details>
 
 ---
 
 ## 💻 System Requirements
 
-* **OS:** Kali Linux, Parrot Security OS, Ubuntu, Debian, macOS, or Termux (Android)
-* **Python:** Version `3.8+`
-* **Dependencies:** `git`, `curl`, `pip`, `bash`
+টুলটি সঠিকভাবে রান করার জন্য আপনার সিস্টেমে নিচের পরিবেশগুলো নিশ্চিত করুন:
+
+* **অপারেটিং সিস্টেম:** Kali Linux / Parrot Security OS / Ubuntu / Debian / Termux (Android)
+* **Python ভার্সন:** `Python 3.8+`
+* **টুলস ও ডিপেনডেন্সি:** `git`, `curl`, `wget`, `bash`
 
 ---
 
 ## 📥 Installation & Setup
 
-খুব সহজেই কমান্ড লাইনে নিচের স্টেপগুলো ফলো করে ইন্সটল করতে পারেন:
+টার্মিনালে সরাসরি নিচের কমান্ডগুলো একের পর এক এক্সিকিউট করুন:
 
 ```bash
 # ১. রিপোজিটরি ক্লোন করুন
-git clone https://github.com/TheUnqiueWeb/CyberSecurity-Tools.git
+git clone https://github.com/TheUniqueWeb/CyberSecurity-Tools.git
 
-# ২. প্রজেক্ট ডিরেক্টরিতে যান
-cd CyberSecurity-Tools
+# ২. Eh All Tool ফোল্ডারে প্রবেশ করুন
+cd CyberSecurity-Tools/"Eh All Tool"
 
-# ৩. পারমিশন দিন
-chmod +x setup.sh install.sh main.py
+# ৩. প্রয়োজনীয় ফাইলের এক্সিকিউশন পারমিশন দিন
+chmod +x *
 
-# ৪. ডিপেনডেন্সি ইন্সটল করুন
-bash setup.sh
-# অথবা
+# ৪. ডিপেনডেন্সি বা রিকয়ারমেন্টস ইন্সটল করুন
 pip install -r requirements.txt
+# অথবা সেটআপ স্ক্রিপ্ট থাকলে:
+# bash setup.sh
